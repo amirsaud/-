@@ -1,0 +1,14 @@
+body{
+text-align: center;
+padding: 50px;
+
+}
+input, select, button {
+    margin: 10px;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 10px ;
+  }
+  #oprator{
+    width: 50px;
+  }
